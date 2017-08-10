@@ -1,0 +1,9 @@
+{
+  "name": "pages",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./lib/pages.js",
+  "dependencies": {
+    "helpers" : "../helpers"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "albumManager",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express" : "4.x.x",
+    "helpers" : "./handlers/helpers",
+    "pages"   : "./handlers/pages"
+  }
+}
